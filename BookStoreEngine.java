@@ -2,7 +2,7 @@
 /* Lauren Choi  
  * APCSA 0 period
  * February 2nd, 2018
- * BookStore Class
+ * BookStore Class: provides the user with an interface
  */
 
 import java.util.*;
