@@ -2,7 +2,7 @@
 /* Lauren Choi
  * APCSA 0 period
  * February 2nd, 2018
- * Book Class
+ * Book Class: creates Book objects
  */
 
 public class Book {
