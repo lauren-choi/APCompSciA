@@ -1,4 +1,5 @@
-
+/* This class will allow the user to calculate the area of a rectangle.
+*/
 public class RectangleArea {
 
 	// defining instance variables
