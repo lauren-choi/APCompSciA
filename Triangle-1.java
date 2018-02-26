@@ -2,7 +2,7 @@
  * Lauren Choi
  * AP CS A 0 period
  * 27th November 2017
- * Triangle Class
+ * Triangle Class: This class will define the type of triangle based on its dimensions.
  */
 
 public class Triangle {
